@@ -1,0 +1,23 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cenform
+{
+    margin:auto;
+    display:block;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    max-width: 500px;
+}
+.cenform input
+{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+}

@@ -1,0 +1,2 @@
+nombre: admin
+pass: admin
